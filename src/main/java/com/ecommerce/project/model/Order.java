@@ -30,6 +30,7 @@ public class Order {
 //    private Payment payment;
 
 
+
     private double totalAmount;
     private String orderStatus;
     @ManyToOne
